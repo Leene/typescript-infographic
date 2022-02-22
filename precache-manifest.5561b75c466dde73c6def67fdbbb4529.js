@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a9ae4d778e4fc615876e3c8e863513e",
+    "revision": "542f25f4420733b7dd7be7b5eb8e34c1",
     "url": "/typescript-infographic/index.html"
   },
   {
-    "revision": "9e2311acf6ffde525201",
+    "revision": "facca1fbd1f73b3ae4c4",
     "url": "/typescript-infographic/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/typescript-infographic/static/js/3.4183067e.chunk.js"
   },
   {
-    "revision": "9e2311acf6ffde525201",
-    "url": "/typescript-infographic/static/js/main.6b71928a.chunk.js"
+    "revision": "facca1fbd1f73b3ae4c4",
+    "url": "/typescript-infographic/static/js/main.2b4e0d03.chunk.js"
   },
   {
     "revision": "a1efd6e1490b9bfbac76",
